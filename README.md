@@ -43,6 +43,6 @@ Follows sustainable farming principles: crop rotation, water management, and soi
 
 Data Source Reference:
 
-Data.gov.in – Karnataka Agricultural Market Data (2012–Present)  - https://www.data.gov.in/resource/karnataka-agricultural-market-data-2012
+Data.gov.in – Karnataka Agricultural Market Data (2012–Present)  - https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=579b464db66ec23bdd0000010263b3255940481660c33ad034a5a1c2&format=json&limit=10000
 
 Agmarknet – Agricultural Marketing Information Network - https://agmarknet.gov.in/
